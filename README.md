@@ -1,6 +1,8 @@
 <h1>Hi, I'm Alex! <br/><a href="https://github.com/absec2023">Aspiring SOC Analyst</a> <a href="https://www.linkedin.com/in/absec2023/"></a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2> :trophy: Certifications:</h2>
+
+<h2> :computer: Cyber Security Projects:</h2>
 
 - <b>Project 1</b>
   <!-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
