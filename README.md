@@ -1,7 +1,7 @@
 <h1>Hi, I'm Alex! <br/><a href="https://github.com/absec2023">Aspiring SOC Analyst</a> <a href="https://www.linkedin.com/in/absec2023/"></a></h1>
 
 <h2> :trophy: Certifications:</h2>
-- <a href="https://www.credly.com/badges/06f852dd-defa-4460-8fbb-09849cd9a349)"> CCNA (Cisco Certified Network Associate) </a>
+- <a href="https://www.credly.com/badges/06f852dd-defa-4460-8fbb-09849cd9a349/public_url"> CCNA (Cisco Certified Network Associate) </a>
 
 <h2> :computer: Cyber Security Projects:</h2>
 
